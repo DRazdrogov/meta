@@ -1,0 +1,12 @@
+{
+    "name": "American Gulf",
+    "symbol": "AMGU",
+    "description": "American Gulf (ex Mexican Gulf)",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/0/28/754934024346280.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
