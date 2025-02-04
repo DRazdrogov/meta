@@ -1,8 +1,8 @@
 {
-    "name": "American Gulf",
-    "symbol": "AMGU",
-    "description": "American Gulf (ex Mexican Gulf)",
-    "image": "https://s0.rbk.ru/v6_top_pics/media/img/0/28/754934024346280.jpg",
+    "name": "Noname Coin",
+    "symbol": "NNC",
+    "description": "Noname Coin",
+    "image": "https://cdn.qwenlm.ai/output/05d400cc-fef2-412c-b35c-a917cc63cb8b/t2i/9bf90b1f-0da5-4eda-99e4-f52148505aeb/27d39a50-523f-4737-b26a-5c672828f10b.png",
     "attributes": [
       {
         "trait_type": "Item",
